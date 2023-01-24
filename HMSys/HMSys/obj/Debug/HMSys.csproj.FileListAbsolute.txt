@@ -1,0 +1,14 @@
+C:\Users\Futuemind\Desktop\C# works\HMSys\HMSys\bin\Debug\HMSys.exe.config
+C:\Users\Futuemind\Desktop\C# works\HMSys\HMSys\bin\Debug\HMSys.exe
+C:\Users\Futuemind\Desktop\C# works\HMSys\HMSys\bin\Debug\HMSys.pdb
+C:\Users\Futuemind\Desktop\C# works\HMSys\HMSys\obj\Debug\HMSys.csprojAssemblyReference.cache
+C:\Users\Futuemind\Desktop\C# works\HMSys\HMSys\obj\Debug\HMSys.LogIn.resources
+C:\Users\Futuemind\Desktop\C# works\HMSys\HMSys\obj\Debug\HMSys.Properties.Resources.resources
+C:\Users\Futuemind\Desktop\C# works\HMSys\HMSys\obj\Debug\HMSys.csproj.GenerateResource.cache
+C:\Users\Futuemind\Desktop\C# works\HMSys\HMSys\obj\Debug\HMSys.csproj.CoreCompileInputs.cache
+C:\Users\Futuemind\Desktop\C# works\HMSys\HMSys\obj\Debug\HMSys.exe
+C:\Users\Futuemind\Desktop\C# works\HMSys\HMSys\obj\Debug\HMSys.pdb
+C:\Users\Futuemind\Desktop\C# works\HMSys\HMSys\obj\Debug\HMSys.Dashboard.resources
+C:\Users\Futuemind\Desktop\C# works\HMSys\HMSys\obj\Debug\HMSys.Diagnosis.resources
+C:\Users\Futuemind\Desktop\C# works\HMSys\HMSys\obj\Debug\HMSys.Doctor.resources
+C:\Users\Futuemind\Desktop\C# works\HMSys\HMSys\obj\Debug\HMSys.Patient.resources
